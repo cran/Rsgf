@@ -1,0 +1,10 @@
+57fdc8248b0c9ef543d0ba73618057bd *DESCRIPTION
+230d7164202db497c6fa9056e5d46dc4 *LICENSE
+d4cf3a49dced6285c532881eb0d0e644 *NAMESPACE
+62096d0159a849af44e8989ecec7f96e *R/functions.R
+c718ed18526349a43bd02bf59c01ed4a *README.md
+d22621888aa080fa01937bd6d1744a21 *inst/img/Blank_Go_board_hollow.png
+e05f0eefdcace4643d31daef8acbcb96 *inst/sgf/1854-12-28a.sgf
+82cd975ddbaac92fe4cea4de36871a2a *inst/sgf/1854-12-29a.sgf
+30bedd41ec4741b2da19ea27900e3de2 *inst/sgf/1854-12-30a.sgf
+e445b2284a04a6a4899850729aff18aa *man/Rsgf.Rd
